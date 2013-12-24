@@ -4,8 +4,6 @@
 
 package projecteuler;
 
-import static projecteuler.MultiplesOf3And5.task1;
-
 /**
  *
  * @author Jordan Atkinson jordan.atkinson3@gmail.com

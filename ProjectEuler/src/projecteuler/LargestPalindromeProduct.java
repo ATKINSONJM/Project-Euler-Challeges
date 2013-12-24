@@ -11,13 +11,13 @@ package projecteuler;
 public class LargestPalindromeProduct {
     
     /**
-     * constructor which will call the method to complete task 4; entry point of the program.
+     * constructor which will call the method to complete task 4.
      * 
      * @param args command line arguments.
      */
     public static void main(String[] args) {
         
-        System.out.println("Largest palindrome product\n"
+        System.out.println("Task 3 - Largest palindrome product\n"
                 + "A palindromic number reads the same both ways. The"
                 + "largest palindrome made from the product of two 2-digit "
                 + "numbers is 9009 = 91 × 99.\n" 

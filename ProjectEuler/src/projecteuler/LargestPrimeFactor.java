@@ -12,7 +12,7 @@ package projecteuler;
 public class LargestPrimeFactor {
     
     /**
-     * constructor which will call the method to complete task 3; entry point of the program.
+     * constructor which will call the method to complete task 3.
      * 
      * @param args command line arguments.
      */
