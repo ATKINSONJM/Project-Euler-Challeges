@@ -1,2 +1,2 @@
-Project-Euler-Challeges
+Project-Euler-Challenges
 =======================
